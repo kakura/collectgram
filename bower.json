@@ -1,0 +1,20 @@
+{
+  "name": "collectgram",
+  "description": "Instagram Search Tools",
+  "main": "",
+  "authors": [
+    "Shuta Kakura"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kakura/collectgram",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
